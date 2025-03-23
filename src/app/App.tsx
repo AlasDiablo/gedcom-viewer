@@ -131,7 +131,7 @@ function App() {
                         />
                     </Box>
                     <Paper>
-                        <Box padding={2} height={'75vh'}>
+                        <Box padding={2} height={'70vh'}>
                             {gedcomTree ? (
                                 <Tree
                                     data={gedcomTree}
